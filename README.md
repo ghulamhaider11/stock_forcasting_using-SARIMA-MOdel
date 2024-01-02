@@ -1,4 +1,5 @@
-**Motivation**/
+**Motivation**
+
 Recognizing the complexity of stock market dynamics, the app was motivated by the goal of providing users with a user-friendly tool to navigate and understand stock price movements.
 Aimed to simplify the process of analyzing and forecasting stock prices, especially for users without extensive financial expertise.
 Driven by the belief that access to accurate and real-time stock forecasts empowers investors to make informed decisions.
