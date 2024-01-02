@@ -1,1 +1,9 @@
-
+pandas
+streamlit
+yfinance
+seaborn
+matplotlib
+numpy
+statsmodels
+plotly
+datetime
